@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**7** solved · 6 problems · 0 labs · 1 math
+**8** solved · 7 problems · 0 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -17,6 +17,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Leaky ReLU Activation Function](https://www.deep-ml.com/problems/44) | easy | 2026-10-09 | [solution](problems/0044-leaky-relu-activation-function) |
 | [Poisson Distribution Probability Calculator](https://www.deep-ml.com/problems/81) | easy | 2026-10-28 | [solution](problems/0081-poisson-distribution-probability-calculator) |
 | [Top-K Largest Elements in a List](https://www.deep-ml.com/problems/1137) | easy | 2026-10-21 | [solution](problems/1137-top-k-largest-elements-in-a-list) |
+| [Binomial Distribution Probability](https://www.deep-ml.com/problems/79) | medium | 2026-10-28 | [solution](problems/0079-binomial-distribution-probability) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-10-27 | [solution](problems/0009-matrix-times-matrix) |
 
 ## Math
